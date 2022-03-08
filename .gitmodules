@@ -1,0 +1,3 @@
+[submodule "HLA-code"]
+	path = HLA-code
+	url = git://github.com/texas-mcallen-mission/HLA-code
