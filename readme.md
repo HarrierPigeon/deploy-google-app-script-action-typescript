@@ -1,4 +1,6 @@
-# Deploy Google App Script Action with TypeScript Compilation
+# This was a fork created to build a feature, and will not be updated.
+
+## Deploy Google App Script Action with TypeScript Compilation
 
 [![Deploy Script](https://GitHub.com/texas-mcallen-mission/deploy-google-app-script-action-typescript/actions/workflows/deploy-script.yml/badge.svg)](https://GitHub.com/texas-mcallen-mission/deploy-google-app-script-action-typescript/actions/workflows/deploy-script.yml)
 
