@@ -1,6 +1,0 @@
-[submodule "HLA-code"]
-	path = HLA-code
-	url = git://github.com/texas-mcallen-mission/HLA-code
-[submodule ".github/workflows"]
-	path = .github/workflows
-	url = git://github.com/HarrierPigeon/gas-action-standalone
